@@ -16,6 +16,6 @@ code .
 pull resuestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğini tartışmak için bir konu açınız.
 ## **License**
 [Mit](https://github.com/baysalmehmet/kodluyoruzilkrepo/blob/main/LICENSE)
-[Patika.dev](www.patikadev.dev)
 ![](https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png)
+[Patika.dev](www.patikadev.dev)
 
